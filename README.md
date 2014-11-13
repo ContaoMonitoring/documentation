@@ -11,7 +11,7 @@ Files
 
 ### Manual
 
-- To get more information about the monitoring system, [read the manual](https://github.com/ContaoMonitoring/documentation/blob/master/manual).
+- To get more information about the monitoring system, [read the manual](manual).
 
 ### Logo
 
