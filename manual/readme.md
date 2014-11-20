@@ -1,5 +1,4 @@
-Manual
-======
+# Manual
 
 This is the manual for the [[Contao Monitoring]](https://github.com/ContaoMonitoring/monitoring) system.
 

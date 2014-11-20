@@ -1,5 +1,4 @@
-Developer manual
-================
+# Developer manual
 
 Get information how to extend the monitoring system.
 

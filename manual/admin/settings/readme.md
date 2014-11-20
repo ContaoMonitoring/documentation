@@ -1,5 +1,4 @@
-Settings
-========
+# Settings
 
 Get information about the settings.
 
