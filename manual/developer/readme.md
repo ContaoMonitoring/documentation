@@ -2,4 +2,8 @@
 
 Get information how to extend the monitoring system.
 
-*NOTHING TO SEE YET*
+## Hooks
+
+Hooks which could be used to modify objects or do custom work.
+
+[Read more ...](hooks.md)
