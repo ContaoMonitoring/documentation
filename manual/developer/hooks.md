@@ -71,7 +71,7 @@ class MyMonitoringHookClass
 {
 	public function myMonitoringExtendTestResultOutput($arrRow, $arrOutputTable)
 	{
-		// extend the output array here
+		// extend the output array here, e.g. $arrOutputTable[] = array('col_0' => 'A label', 'col_1' => 'The content');
 		return $arrOutputTable;
 	}
 }
