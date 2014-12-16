@@ -51,3 +51,28 @@ class MyMonitoringHookClass
 	}
 }
 ```
+
+## monitoringExtendTestResultOutput
+
+The "monitoringExtendTestResultOutput" hook is triggered for extending output for a test result in the parent view. So additional fields could be added, or special formatting is possible.
+It passes the `$arrRow` (array of data for each row) and the `$arrOutputTable` (the output array containing rows with columns).
+It expects the modified output array as return value.
+
+*(since Version 1.7.0)*
+
+```php
+// config.php
+
+$GLOBALS['TL_HOOKS']['monitoringExtendTestResultOutput'][] = array('MyMonitoringHookClass', 'myMonitoringExtendTestResultOutput');
+
+// MyMonitoringHookClass.php
+
+class MyMonitoringHookClass
+{
+	public function myMonitoringExtendTestResultOutput($arrRow, $arrOutputTable)
+	{
+		// extend the output array here
+		return $arrOutputTable;
+	}
+}
+```
