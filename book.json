@@ -1,0 +1,12 @@
+{
+  "gitbook": "2.x.x",
+  "title": "Manual for Contao Monitoring",
+  "links": {
+    "sidebar": {
+      "Contao Monitoring - Homepage": "https://github.com/ContaoMonitoring/monitoring"
+    }
+  },
+  "pdf": {
+    "toc": false
+  }
+}
