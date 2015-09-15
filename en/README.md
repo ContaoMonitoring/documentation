@@ -1,6 +1,6 @@
-# English manual ![EN](en.png)
+# Contao Monitoring manual ![EN](en.png)
 
-This is the manual for the [[Contao Monitoring]](https://github.com/ContaoMonitoring/monitoring) system.
+This is the official manual for the [[Contao Monitoring]](https://github.com/ContaoMonitoring/monitoring) system.
 
 ## Admin manual
 
