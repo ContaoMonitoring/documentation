@@ -13,29 +13,3 @@ Get information how to administer the monitoring system.
 Get information how to extend the monitoring system.
 
 [Read more ...](developer/README.md)
-
-
-### todo
-- [ ] write some articles
-- [x] drink a cup of tea
-
-### richquotes
-> **Info** Info
-> **Note** Note
-> **Tag** Tag
-> **Comment** Comment
-> **Hint** Hint
-> **Success** Success
-> **Warning** Warning
-> **Caution** Caution
-> **Danger** Danger
-> **Quote** Quote
-> **todo** TODO
-> **fixme** FIXME
-> **xxx** XXX
-
-### Try with mix up
-
-> **todo** TODO
-- [ ] write some articles
-- [x] drink a cup of tea

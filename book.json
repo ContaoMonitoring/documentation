@@ -2,17 +2,11 @@
   "gitbook": "2.x.x",
   "title": "Manual for Contao Monitoring",
   "plugins": [
+    "anchor-navigation",
     "anchors",
     "toc",
-    "todo",
-    "richquotes",
-    "share"
+    "todo"
   ],
-  "pluginsConfig": {
-    "richquotes": {
-      "todos" : true /*false by default*/
-    }
-  },
   "links": {
     "sidebar": {
       "Contao Monitoring - Homepage": "https://github.com/ContaoMonitoring/monitoring"
