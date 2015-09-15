@@ -5,7 +5,8 @@ The following hooks could be used.
 **Content**
 <!-- toc -->
 
-## "monitoringFormatList" - Hook
+
+## monitoringFormatList
 
 The "monitoringFormatList" hook is triggered for formatting the monitoring list. So custom formats or icons are possible for each column.
 It passes the `$arrRow` (array of data for each row), the `$dc` (the DataContainer object) and the `$arrFormatedColumns` (array of already formatted columns).
@@ -30,7 +31,8 @@ class MyMonitoringHookClass
 }
 ```
 
-## "monitoringExtendEntryHeader" - Hook
+
+## monitoringExtendEntryHeader
 
 The "monitoringExtendEntryHeader" hook is triggered for extending the header in the parent view of each test entry. So custom fields could be added, or special formatting is possible.
 It passes the `$arrHeaderFields` (array of header fields) and the `$dc` (the DataContainer object).
@@ -55,7 +57,8 @@ class MyMonitoringHookClass
 }
 ```
 
-## "monitoringExtendTestResultOutput" - Hook
+
+## monitoringExtendTestResultOutput
 
 The "monitoringExtendTestResultOutput" hook is triggered for extending output for a test result in the parent view. So additional fields could be added, or special formatting is possible.
 It passes the `$arrRow` (array of data for each row) and the `$arrOutputTable` (the output array containing rows with columns).
