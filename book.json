@@ -4,9 +4,9 @@
   "plugins": [
     "anchor-navigation",
     "anchors",
+    "richquotes",
     "toc",
-    "todo",
-		"richquotes"
+    "todo"
   ],
   "links": {
     "sidebar": {
