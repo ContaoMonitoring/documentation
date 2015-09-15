@@ -13,3 +13,8 @@ Get information how to administer the monitoring system.
 Get information how to extend the monitoring system.
 
 [Read more ...](developer/README.md)
+
+
+
+- [ ] write some articles
+- [x] drink a cup of tea

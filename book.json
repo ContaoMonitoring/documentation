@@ -3,6 +3,7 @@
   "title": "Manual for Contao Monitoring",
   "plugins": [
     "anchors",
+    "todo",
     "toc"
   ],
   "links": {
