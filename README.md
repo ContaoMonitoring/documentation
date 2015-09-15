@@ -5,9 +5,11 @@ Some helping files for documenting the [[Contao Monitoring]](https://github.com/
 In case there are issues, please use the [tracker](https://github.com/ContaoMonitoring/documentation/issues).
 
 
-## English manual
+## Manual
 
-![EN](en/en.png) The english manual is available [here](en).
+[Read the manual](https://cliffparnitzky.gitbooks.io/contaomonitoring)
+
+![EN](en/en.png) [English manual](https://cliffparnitzky.gitbooks.io/contaomonitoring/content/en/index.html) (direct entry)
 
 
 ## Files
