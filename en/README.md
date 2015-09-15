@@ -33,3 +33,13 @@ Get information how to extend the monitoring system.
 > **todo** TODO
 > **fixme** FIXME
 > **xxx** XXX
+
+### comments
+<!--- **warning** Your warning --->
+<!--- **info** Your info --->
+
+### Try with mix up
+
+> **todo** TODO
+> - [ ] write some articles
+> - [x] drink a cup of tea
