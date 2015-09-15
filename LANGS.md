@@ -1,1 +1,1 @@
-* [English](en/)
+* [English](en/) ![EN](en/en.png)
