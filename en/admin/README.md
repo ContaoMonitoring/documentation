@@ -6,10 +6,10 @@ Get information how to administer the monitoring system.
 
 Explanation of the installation.
 
-[Read more ...](installation)
+[Read more ...](installation/README.md)
 
 ## Settings
 
 Explanation of the settings.
 
-[Read more ...](settings)
+[Read more ...](settings/README.md)
