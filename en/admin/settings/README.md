@@ -11,3 +11,7 @@ Add this to your `system/config/localconfig.php` ...
 ... and you will get the following additional info fields:
 
 ![Screenshot Additional Info Fields](screenshot_additional_info_fields.jpg)
+
+> **Caution**
+> This operation could destroy your configuration file.
+> Ensure that there is a backup copy!
