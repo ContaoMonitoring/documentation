@@ -13,3 +13,7 @@ Get information how to administer the monitoring system.
 Get information how to extend the monitoring system.
 
 [Read more ...](developer/README.md)
+
+### Test
+
+> **Info**: test
