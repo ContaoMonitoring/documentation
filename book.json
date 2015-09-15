@@ -3,9 +3,15 @@
   "title": "Manual for Contao Monitoring",
   "plugins": [
     "anchors",
+    "toc",
     "todo",
-    "toc"
+    "richquotes"
   ],
+  "pluginsConfig": {
+    "richquotes": {
+      "todos" : true /*false by default*/
+    }
+  },
   "links": {
     "sidebar": {
       "Contao Monitoring - Homepage": "https://github.com/ContaoMonitoring/monitoring"
