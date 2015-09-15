@@ -6,9 +6,9 @@ Get information about the installation.
 Install via composer
 --------------------
 
-*ToDo*
+> **ToDo** Add information about installation
 
 Trigger via CRON
 ----------------
 
-*ToDo*
+> **ToDo** Add information about CRON configuration

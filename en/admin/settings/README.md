@@ -2,6 +2,10 @@
 
 Get information about the settings.
 
+## System settings
+
+> **ToDo** Describe system settings
+
 ## Example for additional info fields
 
 Add this to your `system/config/localconfig.php` ...
@@ -13,5 +17,7 @@ Add this to your `system/config/localconfig.php` ...
 ![Screenshot Additional Info Fields](screenshot_additional_info_fields.jpg)
 
 > **Caution**
+> 
 > This operation could destroy your configuration file.
+> 
 > Ensure that there is a backup copy!
