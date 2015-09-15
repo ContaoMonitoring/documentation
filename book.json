@@ -3,10 +3,10 @@
   "title": "Manual for Contao Monitoring",
   "plugins": [
     "anchors",
-    "comments",
     "toc",
     "todo",
-    "richquotes"
+    "richquotes",
+    "share"
   ],
   "pluginsConfig": {
     "richquotes": {
