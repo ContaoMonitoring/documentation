@@ -2,6 +2,9 @@
 
 The following hooks could be used.
 
+**Content**
+<!-- toc -->
+
 ## monitoringFormatList
 
 The "monitoringFormatList" hook is triggered for formatting the monitoring list. So custom formats or icons are possible for each column.

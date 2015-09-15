@@ -2,7 +2,8 @@
   "gitbook": "2.x.x",
   "title": "Manual for Contao Monitoring",
   "plugins": [
-    "anchors"
+    "anchors",
+    "toc"
   ],
   "links": {
     "sidebar": {
