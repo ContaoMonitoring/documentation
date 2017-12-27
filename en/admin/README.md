@@ -10,6 +10,14 @@ Explanation of the installation.
 
 [Read more ...](installation/README.md)
 
+## Configuration
+
+Explanation of the configuration.
+
+> **ToDo** Add some more infos
+
+[Read more ...](configuration/README.md)
+
 ## Settings
 
 Explanation of the settings.
