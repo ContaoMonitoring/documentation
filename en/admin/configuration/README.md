@@ -40,3 +40,14 @@ No. Cron will examine the modification time on all crontabs and reload those whi
 
 Have a look at this page: [https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)
 
+## 
+
+When a monitored system uses tools to record access, the hourly monitoring request will influence these data.
+
+This can be avoided with filtering the recorded access via User-Agent request header. The Monitoring system sends the string `ContaoMonitoringClient` with each request.
+
+For example using the Contao extension `[visitors]`, the User-Agent filter can be defined in the module:
+
+![Screenshot Module configuration of visitors](screenshot_user_agent_for_visitors.png)
+
+Using other tools or systems, this filter may be different.
