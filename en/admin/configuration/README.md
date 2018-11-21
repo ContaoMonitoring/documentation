@@ -40,7 +40,7 @@ No. Cron will examine the modification time on all crontabs and reload those whi
 
 Have a look at this page: [https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)
 
-## 
+## Access recording in monitored system 
 
 When a monitored system uses tools to record access, the hourly monitoring request will influence these data.
 
